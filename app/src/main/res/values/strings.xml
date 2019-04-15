@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notepad</string>
+
+    <string name="priority">See by priority</string>
+
+    <string name="title">Title</string>
+
+    <string name="subject">Subject</string>
+
+    <string name="description">Description</string>
+
+    <string name="delete">Note Deleted</string>
+
+    <string name="save">Note Saved</string>
+
+    <string name="emptyWrn">Field cannot be empty</string>
+    <string-array name="priorityArray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
